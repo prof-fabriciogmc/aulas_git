@@ -1,6 +1,6 @@
 # MEU REPOSITÓRIO DE AULA GIT
-FIZ CACA
 ## Autor: Fabrício Carvalho
+Tudo certo, tudo legal...
 
 Eu não sei se consigo corrigir uma caca.
 
